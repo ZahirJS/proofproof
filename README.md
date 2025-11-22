@@ -132,6 +132,9 @@ Click Run icon in Godot!
 - Edith Cabral Medina
 - Andres Zahir Rodriguez Robles
 
+**Grupo:**
+- Programación 3D - Sábados
+
 **Special Thanks:**
 - Our teacher, Jose Luis David Bonilla Carranza
 
