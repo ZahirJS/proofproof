@@ -61,9 +61,9 @@ A 3D survival maze game set in a medieval style labyrinth. Navigate twisted corr
       <strong>Ghost</strong>
     </td>
     <td align="center" width="20%">
-      <img src="https://github.com/ZahirJS/proofproof/blob/main/assets/lamp.png" alt="Lamp" width="150"/>
+      <img src="https://github.com/ZahirJS/proofproof/blob/main/assets/ceiling_lamp.png" alt="Lamp" width="150"/>
       <br>
-      <strong>Lamp</strong>
+      <strong>Ceiling Lamp</strong>
     </td>
   </tr>
 </table>
