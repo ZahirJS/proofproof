@@ -17,27 +17,37 @@ A 3D survival maze game set in a medieval labyrinth. Navigate twisted corridors 
 <table>
   <tr>
     <td align="center">
-      <video src="https://github.com/ZahirJS/proofproof/blob/main/assets/portal.mp4" width="180"/>
+      
+https://github.com/ZahirJS/proofproof/assets/portal.mp4
+
       <br>
       <strong>Portal</strong>
     </td>
     <td align="center">
-      <video src="https://github.com/ZahirJS/proofproof/blob/main/assets/orb.mp4" width="180"/>
+      
+https://github.com/ZahirJS/proofproof/assets/orb.mp4
+
       <br>
       <strong>Magical Orb</strong>
     </td>
     <td align="center">
-      <video src="https://github.com/ZahirJS/proofproof/blob/main/assets/heart.mp4" width="180"/>
+      
+https://github.com/ZahirJS/proofproof/assets/heart.mp4
+
       <br>
       <strong>Heart</strong>
     </td>
     <td align="center">
-      <video src="https://github.com/ZahirJS/proofproof/blob/main/assets/ghost.mp4" width="180"/>
+      
+https://github.com/ZahirJS/proofproof/assets/ghost.mp4
+
       <br>
       <strong>Ghost</strong>
     </td>
     <td align="center">
-      <video src="https://github.com/ZahirJS/proofproof/blob/main/assets/lamp.mp4" width="180"/>
+      
+https://github.com/ZahirJS/proofproof/assets/lamp.mp4
+
       <br>
       <strong>Lamp</strong>
     </td>
