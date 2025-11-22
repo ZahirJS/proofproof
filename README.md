@@ -14,40 +14,46 @@ A 3D survival maze game set in a medieval labyrinth. Navigate twisted corridors 
 
 ## 🎬 Asset Showcase
 
+<div align="center">
+
+Click on any asset below to view the interactive 3D model:
+
+</div>
+
 <table>
   <tr>
     <td align="center">
-      
-https://github.com/ZahirJS/proofproof/assets/portal.mp4
-
+      <a href="https://github.com/ZahirJS/proofproof/blob/main/assets/portal.glb">
+        <img src="https://via.placeholder.com/180x180/1a1a1a/ffffff?text=Portal" alt="Portal 3D Model" width="180"/>
+      </a>
       <br>
       <strong>Portal</strong>
     </td>
     <td align="center">
-      
-https://github.com/ZahirJS/proofproof/assets/orb.mp4
-
+      <a href="https://github.com/ZahirJS/proofproof/blob/main/assets/orb.glb">
+        <img src="https://via.placeholder.com/180x180/1a1a1a/ffffff?text=Magical+Orb" alt="Orb 3D Model" width="180"/>
+      </a>
       <br>
       <strong>Magical Orb</strong>
     </td>
     <td align="center">
-      
-https://github.com/ZahirJS/proofproof/assets/heart.mp4
-
+      <a href="https://github.com/ZahirJS/proofproof/blob/main/assets/heart.glb">
+        <img src="https://via.placeholder.com/180x180/1a1a1a/ffffff?text=Heart" alt="Heart 3D Model" width="180"/>
+      </a>
       <br>
       <strong>Heart</strong>
     </td>
     <td align="center">
-      
-https://github.com/ZahirJS/proofproof/assets/ghost.mp4
-
+      <a href="https://github.com/ZahirJS/proofproof/blob/main/assets/ghost.glb">
+        <img src="https://via.placeholder.com/180x180/1a1a1a/ffffff?text=Ghost" alt="Ghost 3D Model" width="180"/>
+      </a>
       <br>
       <strong>Ghost</strong>
     </td>
     <td align="center">
-      
-https://github.com/ZahirJS/proofproof/assets/lamp.mp4
-
+      <a href="https://github.com/ZahirJS/proofproof/blob/main/assets/lamp.glb">
+        <img src="https://via.placeholder.com/180x180/1a1a1a/ffffff?text=Lamp" alt="Lamp 3D Model" width="180"/>
+      </a>
       <br>
       <strong>Lamp</strong>
     </td>
