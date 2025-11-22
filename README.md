@@ -141,7 +141,6 @@ Click Run icon in Godot!
 ---
 <div align="center">
   <h3 style="font-family: 'Cinzel', serif; font-style: italic; color: #8B4513; margin-top: 20px; font-weight: 600; letter-spacing: 2px;">
-    Three lives. Ten orbs. One escape.*
+    Three lives. Ten orbs. One escape.
   </h3>
-*Three lives. Ten orbs. One escape.*
 </div>
