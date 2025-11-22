@@ -132,7 +132,7 @@ Click Run icon in Godot!
 - Edith Cabral Medina
 - Andres Zahir Rodriguez Robles
 
-**Grupo:**
+**Clase:**
 - Programación 3D - Sábados
 
 **Special Thanks:**
