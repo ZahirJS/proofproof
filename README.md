@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://github.com/ZahirJS/proofproof/blob/main/assets/logo.png" alt="Lost Souls" width="500"/>
   
-  <h3 style="font-family: 'Cinzel', serif; font-style: italic; color: #8B4513; margin-top: 20px; font-weight: 600; letter-spacing: 2px;">
-    Escape the Cursed Maze • Avoid the Phantoms • Find the Portal • Survive
-  </h3>
-</div>
-
+  <p align="center">
+    <img src="https://img.shields.io/badge/ESCAPE-THE_CURSED_MAZE-8B4513?style=for-the-badge&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/AVOID-THE_PHANTOMS-6A5ACD?style=for-the-badge&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/FIND-THE_PORTAL-4169E1?style=for-the-badge&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/SURVIVE-OR_DIE-DC143C?style=for-the-badge&labelColor=1a1a1a"/>
+  </p>
 </div>
 
 ---
