@@ -16,9 +16,9 @@
 
 *You awaken in a cold, dark labyrinth with no memory of how you arrived.*
 
-Ancient stone walls surround you, lit only by flickering torches. As your eyes adjust to the darkness, you notice ghostly figures floating through the corridors—**phantom guardians** that have claimed this maze as their eternal domain.
+Brick walls surround you, lit only by flickering torches. As your eyes adjust to the darkness, you notice ghostly figures floating through the corridors—**phantom guardians** that have claimed this maze as their eternal domain.
 
-Your heart pounds as you realize the truth: **you must escape before they find you**. 
+Your heart pounds as you realize the truth: **you must escape before they find you**.
 
 Scattered throughout the labyrinth are mystical orbs and metallic hearts—remnants of those who came before. The hearts will sustain your life force, but you only have **three chances**. Somewhere in this cursed place lies a portal, your only hope for freedom.
 
@@ -28,7 +28,7 @@ Scattered throughout the labyrinth are mystical orbs and metallic hearts—remna
 
 ## 🎮 About
 
-A 3D survival maze game set in a medieval labyrinth. Navigate twisted corridors while floating ghost enemies hunt you down. Collect hearts to stay alive, hunt for hidden magical orbs, and find the portal to escape.
+A 3D survival maze game set in a medieval style labyrinth. Navigate twisted corridors while floating ghost enemies hunt you down. Collect hearts to stay alive, hunt for hidden magical orbs, and find the portal to escape.
 
 **Your Mission:**
 - Survive the phantom guardians hunting you
@@ -120,24 +120,17 @@ git clone https://github.com/ZahirJS/proofproof.git
 cd proofproof
 
 # Run the game
-[your-run-command]
+Click Run icon in Godot!
 ```
 
 ## 📝 Credits
 
 **Game Developers:**
-- [Developer Name 1]
-- [Developer Name 2]
-
-**3D Assets:**
-- AI Generated Models
+- Edith Cabral Medina
+- Andres Zahir Rodriguez Robles
 
 **Special Thanks:**
-- [Additional Credits]
-
-## 📜 License
-
-[Your License Here]
+- Our teacher, Jose Luis David Bonilla Carranza
 
 ---
 
