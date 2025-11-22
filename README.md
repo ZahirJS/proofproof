@@ -1,4 +1,4 @@
-# 🏰 Phantom Labyrinth
+# Lost Souls
 
 > Escape the cursed medieval maze. Avoid the phantoms. Find the portal. Survive.
 
