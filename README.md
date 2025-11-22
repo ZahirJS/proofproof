@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://github.com/ZahirJS/proofproof/blob/main/assets/logo.png" alt="Lost Souls" width="500"/>
-</div>
-
-<div align="center">
   
-> *Escape the cursed medieval maze. Avoid the phantoms. Find the portal. Survive.*
+  <h3 style="font-family: 'Cinzel', serif; font-style: italic; color: #8B4513; margin-top: 20px; font-weight: 600; letter-spacing: 2px;">
+    Escape the Cursed Maze • Avoid the Phantoms • Find the Portal • Survive
+  </h3>
+</div>
 
 </div>
 
