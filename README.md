@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://github.com/ZahirJS/proofproof/blob/main/assets/logo.png" alt="Lost Souls" width="500"/>
   
-  <h3 style="font-family: 'Courier New', monospace; letter-spacing: 3px; font-weight: 300; color: #666;">
-    THREE LIVES • ONE ESCAPE • NO MERCY
+  <h3 style="font-family: 'Cinzel', serif; font-style: italic; color: #8B4513; margin-top: 20px; font-weight: 600; letter-spacing: 2px;">
+    Escape the Cursed Maze • Avoid the Phantoms • Find the Portal • Survive
   </h3>
 </div>
 
----
 
 ## 📖 The Story
 
