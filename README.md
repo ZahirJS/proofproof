@@ -97,7 +97,7 @@ A 3D survival maze game set in a medieval style labyrinth. Navigate twisted corr
   </tr>
   <tr>
     <td align="center">⇧ Shift</td>
-    <td align="center">Sprint/Super Speed</td>
+    <td align="center">Super Speed</td>
   </tr>
   
 </table>
@@ -112,7 +112,7 @@ A 3D survival maze game set in a medieval style labyrinth. Navigate twisted corr
 - **💖 Hearts** - Collect these to maintain your 3 lives. Don't waste them!
 - **🔮 Magical Orbs** - 10 hidden collectibles for brave explorers
 - **🚪 Portal** - Your only escape from the cursed maze
-- **🏰 Medieval Scenery** - Atmospheric gothic architecture and lighting
+- **🏰 Dungeon Scenery** - Atmospheric gothic architecture and lighting
 
 ## 🚀 Getting Started
 ```bash
