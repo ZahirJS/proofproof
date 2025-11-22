@@ -95,6 +95,11 @@ A 3D survival maze game set in a medieval style labyrinth. Navigate twisted corr
     <td align="center">➡️ Arrow Right</td>
     <td align="center">Move Right</td>
   </tr>
+  <tr>
+    <td align="center">⇧ Shift</td>
+    <td align="center">Sprint/Super Speed</td>
+  </tr>
+  
 </table>
 
 *Note: There is no jumping in this game. Navigate the labyrinth on foot.*
