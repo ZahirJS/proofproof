@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/ZahirJS/proofproof/blob/main/assets/logo.png" alt="Lost Souls" width="500"/>
   
-  <h2>
-    <sub>ESCAPE THE CURSED MAZE • AVOID THE PHANTOMS • FIND THE PORTAL • SURVIVE</sub>
-  </h2>
+  <h3 style="font-family: 'Courier New', monospace; letter-spacing: 3px; font-weight: 300; color: #666;">
+    THREE LIVES • ONE ESCAPE • NO MERCY
+  </h3>
 </div>
 
 ---
