@@ -1,18 +1,34 @@
-# Lost Souls
+<div align="center">
+  <img src="https://github.com/ZahirJS/proofproof/blob/main/assets/logo.png" alt="Lost Souls" width="500"/>
+</div>
 
-> Escape the cursed medieval maze. Avoid the phantoms. Find the portal. Survive.
+<div align="center">
+  
+> *Escape the cursed medieval maze. Avoid the phantoms. Find the portal. Survive.*
 
-## 📖 Story
+</div>
 
-You awaken in a cold, dark labyrinth with no memory of how you arrived. Brick walls surround you, lit only by flickering torches. As your eyes adjust to the darkness, you notice ghostly figures floating through the corridors—phantom guardians that have claimed this maze as their eternal domain.
+---
 
-Your heart pounds as you realize the truth: you must escape before they find you. Scattered throughout the labyrinth are mystical orbs and metallic hearts—remnants of those who came before. The hearts will sustain your life force, but you only have three chances. Somewhere in this cursed place lies a portal, your only hope for freedom.
+## 📖 The Story
 
-The phantoms are stirring. Time to move.
+<div style="background: linear-gradient(135deg, rgba(222, 184, 135, 0.15) 0%, rgba(205, 169, 117, 0.15) 100%); border-left: 4px solid #8B4513; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+*You awaken in a cold, dark labyrinth with no memory of how you arrived.*
+
+Ancient stone walls surround you, lit only by flickering torches. As your eyes adjust to the darkness, you notice ghostly figures floating through the corridors—**phantom guardians** that have claimed this maze as their eternal domain.
+
+Your heart pounds as you realize the truth: **you must escape before they find you**. 
+
+Scattered throughout the labyrinth are mystical orbs and metallic hearts—remnants of those who came before. The hearts will sustain your life force, but you only have **three chances**. Somewhere in this cursed place lies a portal, your only hope for freedom.
+
+> *The phantoms are stirring. Time to move.*
+
+</div>
 
 ## 🎮 About
 
-A 3D survival maze game set in a medieval style labyrinth. Navigate twisted corridors while floating ghost enemies hunt you down. Collect hearts to stay alive, hunt for hidden magical orbs, and find the portal to escape.
+A 3D survival maze game set in a medieval labyrinth. Navigate twisted corridors while floating ghost enemies hunt you down. Collect hearts to stay alive, hunt for hidden magical orbs, and find the portal to escape.
 
 **Your Mission:**
 - Survive the phantom guardians hunting you
@@ -110,10 +126,19 @@ cd proofproof
 ## 📝 Credits
 
 **Game Developers:**
-- Edith Cabral Medina
-- Andres Zahir Rodriguez Robles
+- [Developer Name 1]
+- [Developer Name 2]
+
+**3D Assets:**
+- AI Generated Models
 
 **Special Thanks:**
-- Our teacher, Jose Luis David Bonilla Carranza
+- [Additional Credits]
+
+## 📜 License
+
+[Your License Here]
+
+---
 
 *Three lives. Ten orbs. One escape.*
